@@ -1,5 +1,5 @@
 # Flex-practice
-In the following, I will be using and praticing on [Flex.](https://github.com/alondraosdali/flex-practice) 
+In the following, I will be using and praticing on [Flex.](https://www.w3schools.com/css/css3_flexbox.asp) 
 
 ## Here's how to begin:
 1. Follow the link that has been provided.
@@ -8,4 +8,4 @@ In the following, I will be using and praticing on [Flex.](https://github.com/al
 
 ---
 Happy Coding! <br>
-[Eat Sleep Code Repeat Gif] (<iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>)
+![Eat Sleep Code Repeat Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVjZWM2N2QwOTJhOTJjMGViZDU2NWUyMzkwMjU4ZDI2ZDhjNjUxYyZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif)
