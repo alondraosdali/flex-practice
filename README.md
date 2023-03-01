@@ -8,4 +8,4 @@ In the follwing, I will be using and praticing on [Flex.](https://github.com/alo
  
 
 ---
-![Eat Sleep Code Repeat Gif] (https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47akrqretaqfarwtc76jlfu7gp1bec1ao6jt96dnqw&rid=giphy.gif&ct=g)
+Live Love Laugh Code![Eat Sleep Code Repeat Gif] (https://media3.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47akrqretaqfarwtc76jlfu7gp1bec1ao6jt96dnqw&rid=giphy.gif&ct=g)
